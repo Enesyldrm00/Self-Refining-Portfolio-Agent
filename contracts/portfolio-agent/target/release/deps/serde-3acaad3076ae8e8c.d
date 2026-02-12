@@ -1,0 +1,14 @@
+C:\Users\enes\Desktop\wallet-test\contracts\portfolio-agent\target\release\deps\serde-3acaad3076ae8e8c.d: C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\enes\Desktop\wallet-test\contracts\portfolio-agent\target\release\build\serde-2f128f841e8a1d2e\out/private.rs
+
+C:\Users\enes\Desktop\wallet-test\contracts\portfolio-agent\target\release\deps\libserde-3acaad3076ae8e8c.rlib: C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\enes\Desktop\wallet-test\contracts\portfolio-agent\target\release\build\serde-2f128f841e8a1d2e\out/private.rs
+
+C:\Users\enes\Desktop\wallet-test\contracts\portfolio-agent\target\release\deps\libserde-3acaad3076ae8e8c.rmeta: C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\enes\Desktop\wallet-test\contracts\portfolio-agent\target\release\build\serde-2f128f841e8a1d2e\out/private.rs
+
+C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\enes\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\enes\Desktop\wallet-test\contracts\portfolio-agent\target\release\build\serde-2f128f841e8a1d2e\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\enes\\Desktop\\wallet-test\\contracts\\portfolio-agent\\target\\release\\build\\serde-2f128f841e8a1d2e\\out

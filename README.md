@@ -2,7 +2,7 @@
 
 An AI-driven cryptocurrency portfolio management system built on the Stellar blockchain with self-refining strategies.
 
-## 🚀 Features
+##  Features
 
 - **AI-Powered Trading**: Autonomous portfolio management with continuous strategy refinement
 - **Stellar Integration**: Native support for Stellar (XLM) and Soroban smart contracts
@@ -10,7 +10,7 @@ An AI-driven cryptocurrency portfolio management system built on the Stellar blo
 - **Cyber-FinTech UI**: Modern, beautiful dashboard with cyberpunk aesthetics
 - **PostgreSQL Backend**: Robust data storage and transaction history
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 .
@@ -29,7 +29,7 @@ An AI-driven cryptocurrency portfolio management system built on the Stellar blo
 └── public/                # Static assets
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **Next.js 14** (App Router)
@@ -46,7 +46,7 @@ An AI-driven cryptocurrency portfolio management system built on the Stellar blo
 - **Stellar Blockchain**
 - **Soroban Smart Contracts** (Rust)
 
-## 📦 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js >= 18
@@ -75,7 +75,7 @@ npm run dev
 4. **Open your browser**
 Navigate to [http://localhost:3000](http://localhost:3000)
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 The dashboard features a **Cyber-FinTech** aesthetic with:
 - Dark cyberpunk color scheme
@@ -84,7 +84,7 @@ The dashboard features a **Cyber-FinTech** aesthetic with:
 - Smooth transitions and micro-interactions
 - Real-time data visualization
 
-## 📊 Features Roadmap
+##  Features Roadmap
 
 - [x] Beautiful Cyber-FinTech dashboard
 - [x] Agent status monitoring
@@ -97,7 +97,7 @@ The dashboard features a **Cyber-FinTech** aesthetic with:
 - [ ] Real-time market data
 - [ ] Automated trading execution
 
-## 🔐 Security
+##  Security
 
 This project handles cryptocurrency transactions. Please ensure:
 - Never commit `.env` files
@@ -105,14 +105,14 @@ This project handles cryptocurrency transactions. Please ensure:
 - Audit smart contracts before mainnet deployment
 - Implement proper authentication
 
-## 📝 License
+##  License
 
 MIT
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions welcome! Please read our contributing guidelines first.
 
 ---
 
-Built with ❤️ using Next.js, Stellar, and AI
+
